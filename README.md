@@ -4,7 +4,7 @@
 ---
 
 ## Description:
-#####
+##### Simple HTML and CSS website boilerplate.
 
 ###### Desktop Views:
 
