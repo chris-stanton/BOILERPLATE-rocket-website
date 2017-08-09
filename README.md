@@ -16,11 +16,11 @@
 
 ###### Mobile Views:
 
-<img src="./public/assets/images/screenshots/mobile-one.png" width="35%">
+<img src="./public/assets/images/screenshots/mobile-one.png" width="30%">
 
-<img src="./public/assets/images/screenshots/mobile-two.png" width="35%">
+<img src="./public/assets/images/screenshots/mobile-two.png" width="30%">
 
-<img src="./public/assets/images/screenshots/mobile-three.png" width="35%">
+<img src="./public/assets/images/screenshots/mobile-three.png" width="30%">
 
 ---
 
