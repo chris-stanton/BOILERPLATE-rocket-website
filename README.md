@@ -4,7 +4,7 @@
 ---
 
 ## Description:
-##### Simple HTML and CSS website boilerplate.
+##### Simple HTML and CSS website boilerplate.  This is a font-end HTML and CSS boilerplate only.
 
 ###### Desktop Views:
 
